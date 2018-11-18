@@ -1,6 +1,6 @@
 # LoanCalculator
 
-A loan calculation tool build on vanilla JS
+A loan calculation tool build with vanilla JS
 
 ## Dependencies
  - Bootstrap
